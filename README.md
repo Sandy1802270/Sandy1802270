@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sandy Ibrahim  
+- 👀 I’m interested in learning code and enjoying it!
+- 🌱 I’m currently learning Java
